@@ -39,18 +39,18 @@ Privilegi-> Proponente: La descrizione e i materiali
 
 Flussi:
 User:
-1) iscriviti
-2) 
-	2.a)Partecipa a un corso 
-		2.a.1) iscriviti al corso
-		2.a.2) Paga
-		2.a.3) Scarica i materiali
-		2.a.4) Partecipa ai forum on line
+	1) iscriviti
+	2)Agisci 
+		2.a)Partecipa a un corso 
+			2.a.1) iscriviti al corso
+			2.a.2) Paga
+			2.a.3) Scarica i materiali
+			2.a.4) Partecipa ai forum on line
 		
-	2.b)Proponi un corso
-		2.b.1) upload CV
-		2.b.2) Descrivi: contenuto, corsi
-			2.b.2.1) C'è un esame?
-		2.b.3) Upload materiali
+		2.b)Proponi un corso
+			2.b.1) upload CV
+			2.b.2) Descrivi: contenuto, corsi
+				2.b.2.1) C'è un esame?
+			2.b.3) Upload materiali
 		
 		
