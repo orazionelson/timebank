@@ -39,8 +39,10 @@ Privilegi-> Proponente: La descrizione e i materiali
 
 Flussi:
 User:
+
 	1.0) iscriviti
 	2.0)Agisci 
+	
 		2.a)Partecipa a un corso 
 			2.a.1) iscriviti al corso
 			2.a.2) Paga
