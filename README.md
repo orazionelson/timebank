@@ -7,7 +7,7 @@ Banca del tempo
 
 1) Organizzazione --> Iscritti
 
-2) Iscritti --> Volontari
+2) Iscritti --> Volontari, 
 
 3) Volontario --> Propone Corso
 
@@ -25,9 +25,32 @@ Banca del tempo
 Tabelle necessarie:
 ACL: Utenti, Ruoli, Privilegi
 
+Organizzazione: gestione utenti, gestione corsi
+
 Users Area: Corsi seguiti, Corsi tenuti, Wallet crediti
 
 Bacheca corsi-->Gestione classi studenti.
 
+Corsi: Descrizione, materiali, Status (in via di approvazione, approvato, in corso, concluso)
+Privilegi-> Proponente: La descrizione e i materiali 
+	-> Organizzazione: Status
+
 7) Eventualmente integrare sistema di e-learning (diventa complicato)
 
+Flussi:
+User:
+1) iscriviti
+2) 
+	2.a)Partecipa a un corso 
+		2.a.1) iscriviti al corso
+		2.a.2) Paga
+		2.a.3) Scarica i materiali
+		2.a.4) Partecipa ai forum on line
+		
+	2.b)Proponi un corso
+		2.b.1) upload CV
+		2.b.2) Descrivi: contenuto, corsi
+			2.b.2.1) C'è un esame?
+		2.b.3) Upload materiali
+		
+		
