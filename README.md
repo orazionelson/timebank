@@ -33,7 +33,8 @@ Privilegi-> Proponente: La descrizione e i materiali
 
 7) Eventualmente integrare sistema di e-learning (diventa complicato)
 
-Users & User Stories		
+Users & User Stories	
+
 	1) Visitor: can just Read, Register, Apply for the ML
 	2) Registered User: can Apply for Courses, can Contact the oganization
 	3) Student (A registered user the applied to a course): can Read and Use course board
