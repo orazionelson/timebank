@@ -34,12 +34,12 @@ Privilegi-> Proponente: La descrizione e i materiali
 7) Eventualmente integrare sistema di e-learning (diventa complicato)
 
 Users & User Stories		
-1) Visitor: can just Read, Register, Apply for the ML
-2) Registered User: can Apply for Courses, can Contact the oganization
-3) Student (A registered user the applied to a course): can Read and Use course board
-4) Teacher (A registered user that offers a course): Can Edit the course board and a blog
-5) Tutor (A member of the organization that organize the course): Full CRUD on his courses, 
-6) Administrator
+	1) Visitor: can just Read, Register, Apply for the ML
+	2) Registered User: can Apply for Courses, can Contact the oganization
+	3) Student (A registered user the applied to a course): can Read and Use course board
+	4) Teacher (A registered user that offers a course): Can Edit the course board and a blog
+	5) Tutor (A member of the organization that organize the course): Full CRUD on his courses, 
+	6) Administrator
 
 User:
 
